@@ -1,0 +1,31 @@
+Place JSON template:
+[
+{
+	"id" : 0,
+ 	"name" : "template",
+ 	"hours" : "",
+ 	"placeDescription" : "",
+ 	"imagePath" : "",
+ 	"videoPath" : "",
+ 	"latitude" : 0.0,
+ 	"longitude" : 0.0
+	"category" : ["Residence Hall", "Recreation", "Dining", "Academic", "Everything"]
+}
+]
+
+Tour JSON template:
+[
+{
+	"id" : 0,
+	"name" : "template",
+	"timeRequired" : "",
+	"placesOnTour" : [0, 1, 2],
+	"description" : "",
+	"distance" : "",
+	"iconPath" : ""
+}
+]
+
+Notes: 
+placesOnTour expects an array of place IDs
+iconPath should be the name of the file without the extension (for now).  For example, "tourIcon.png" should just be written in the JSON as "tourIcon"	

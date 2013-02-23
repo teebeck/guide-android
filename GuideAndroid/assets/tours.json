@@ -1,0 +1,83 @@
+[
+ {
+ 	"id" : 1,
+ 	"name" : "Test Tour 1",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [1, 22, 3, 9],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 2,
+ 	"name" : "Test Tour 2",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [24, 44, 13, 42],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 3,
+ 	"name" : "Test Tour 3",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [11, 1, 50],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 4,
+ 	"name" : "Test Tour 4",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 5,
+ 	"name" : "Test Tour 5",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 6,
+ 	"name" : "Test Tour 6",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 7,
+ 	"name" : "Test Tour 7",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 8,
+ 	"name" : "Test Tour 8",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ },
+ {
+ 	"id" : 9,
+ 	"name" : "Test Tour 9",
+ 	"timeRequired" : "1 hour",
+ 	"placesOnTour" : [6, 1, 7],
+ 	"description" : "Description for this tour",
+ 	"distance" : "0.7 miles",
+ 	"iconPath" : "tour_placeholder"
+ }
+]
